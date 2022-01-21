@@ -1,6 +1,6 @@
 # 538_model_playoffs
 
-I evaluated FiveThirtyEight's forecasting model on my [blog post](https://blog.albertkuo.me/post/2022-01-22-how-good-is-fivethirtyeight-s-nba-prediction-model/). Feel free to check, recreate, or build upon my work.
+I evaluated FiveThirtyEight's forecasting model on my [blog post](https://blog.albertkuo.me/post/2022-01-21-how-good-is-fivethirtyeight-s-nba-prediction-model/). Feel free to check, recreate, or build upon my work.
 
 ### Code Organization
 
